@@ -1,0 +1,15 @@
+.amarillo {
+  color: yellow;
+}
+.rojo {
+  color: red;
+}
+
+td {
+  color: greenyellow;
+}
+
+th,
+td {
+  padding: 5px;
+}

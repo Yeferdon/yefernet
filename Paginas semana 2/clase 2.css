@@ -1,0 +1,29 @@
+.clase1 {
+  border: 3px solid blue;
+  padding: 10px;
+  margin-top: 30px;
+  padding: 10px;
+}
+.clase2 {
+  border: 3px solid grey;
+  padding: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.clase3 {
+  border: 3px solid greenyellow;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  padding: ;
+}
+.clase4 {
+  border: 3px solid grey;
+  margin-top: 30px;
+}
+li {
+  margin-bottom: 15px;
+  margin-top: -3px;
+}
+p {
+  margin-top: 30px;
+}

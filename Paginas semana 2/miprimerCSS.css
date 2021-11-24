@@ -1,0 +1,26 @@
+/* div {
+  color: blueviolet;
+  background-color: rgb(7, 255, 214);
+  text-align: end;
+  width: 500px;
+  height: 500px;
+  border-radius: 10px;
+  margin-left: 100px;
+  margin-top: 30px;
+  margin: 10px;
+  padding: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 12px;
+} */
+
+#parrafo1 {
+  background-color: blueviolet;
+}
+#parrafo1 button {
+  background-color: rgb(255, 255, 255);
+}
+
+.primeraclase #parrafo1 div > button :nth-child(0) {
+  color: wheat;
+  border-radius: 50px;
+}
